@@ -1,0 +1,9 @@
+<resources>
+    <color name="ink">#0A0A0A</color>
+    <color name="paper">#F1F0EB</color>
+    <color name="muted">#A7A49C</color>
+    <color name="line">#2B2B29</color>
+    <color name="red">#E41E2B</color>
+    <color name="red_dark">#A80F19</color>
+    <color name="white">#FFFFFF</color>
+</resources>
